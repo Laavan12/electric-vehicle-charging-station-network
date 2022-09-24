@@ -81,11 +81,3 @@ docker-compose up -d
 
 #### Start working with APIs
 Swagger generates documentation of REST APIs, which is accessible using this [link](http://localhost:8080/swagger-ui.html).
-
-## Authors
-
-* **Reza Ebrahimpour** - [Github](https://github.com/rezaep)
-
-## License
-
-This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details
