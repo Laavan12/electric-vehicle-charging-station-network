@@ -21,7 +21,7 @@ Docker (if you want to run the application using the Docker image)
 Clone the repository:
 
 ```
-git clone https://github.com/rezaep/electric-vehicle-charging-station-management-system
+git clone https://github.com/laavan12/electric-vehicle-charging-station-management-system
 ```
 
 Use Maven build tool to compile and build the project:
